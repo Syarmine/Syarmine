@@ -1,8 +1,4 @@
-## Hi there 👋
-
-### I'm Syarmine - Analytics Engineer | Doctor | Data Analytics Consultant | Microsoft Certified x6 and AWS x1
-
-👋 Hi, welcome to my page. I wear multiple hats - loved using data to deliver business decision. Specialized in data analytics domain with experience in healthcare (clinical and policy), insurance, oil and gas engineering and recently accounting analytics. Extremely adamant on lifelong learning and enthuasiastic with modern data analytics offering and loved to help others to do the same - via Digital Qasas.
+👋 Hi there, welcome to my page. Specialized in data analytics domain with experience in healthcare, insurance, oil and gas engineerings and accounting and finance. Extremely adamant on lifelong learning and enthuasiastic with modern data analytics offering and loved to help others to do the same - via Digital Qasas.
 
 Passionate to help people upskill and deliver elegant solutions to complex problems. Always learning, coding and hustling.
 
