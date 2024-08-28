@@ -5,6 +5,7 @@
 Passionate to help people upskill and deliver elegant solutions to complex problems. Leveraging cutting-edge technologies to build scalable and efficient applications. Always learning, always coding.
 
 
+
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=Syarmine&show_icons=true&theme=react" alt="Syarmine's GitHub stats" />
@@ -15,8 +16,9 @@ Passionate to help people upskill and deliver elegant solutions to complex probl
 
   <br>
 
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSyarmine&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" alt="Profile Views" />
+  ![](https://komarev.com/ghpvc/?username=Syarmine&color=blue&style=flat-square)
 
 </div>
+
 
 <!-- Rest of your README content -->
