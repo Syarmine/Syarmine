@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-[![Syarmine's GitHub stats](https://github-readme-stats.vercel.app/api?username=Syarmine&show_icons=true&theme=transparent)](https://github.com/Syarmine/github-readme-stats)
+[![Syarmine's GitHub stats](https://github-readme-stats.vercel.app/api?username=Syarmine&show_icons=true&theme=gotham)](https://github.com/Syarmine/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Syarmine&show_icons=true&theme=transparent)](https://github.com/Syarmine/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Syarmine&show_icons=true&theme=gotham)](https://github.com/Syarmine/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Syarmine)](https://github.com/Syarmine/github-readme-stats)
         
