@@ -18,13 +18,14 @@ Passionate to help people upskill and deliver elegant solutions to complex probl
 I'm working full-time remotely as a Data Analyst and Analytics Engineer. Currently focusing on data analytics training to professionals, executives, analyst and students - knowledge sharing on Python, PowerBI. 
 
 🔍 Currently Learning:
-Cloud Data Engineering, Chartered Accounting and Investing 
-
+* Cloud Data Engineering
+* Quant stuff
+  
 🚀 How to reach me:
-Web: syarmine.github.io
-Email: syarmineshah@yahoo.com
-LinkedIn: [SyarmineS](https://www.linkedin.com/in/drsyarmine-shah/)
-Twitter: @SyarmineS
+* Web: syarmine.github.io
+* Email: syarmineshah@yahoo.com
+* LinkedIn: [SyarmineS](https://www.linkedin.com/in/drsyarmine-shah/)
+* Twitter: @SyarmineS
 
 
 <!-- Rest of your README content -->
