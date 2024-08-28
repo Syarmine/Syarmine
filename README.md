@@ -1,4 +1,7 @@
 ## Hi there 👋
+
+[![Syarmine's GitHub stats](https://github-readme-stats.vercel.app/api?username=Syarmine&show_icons=true&theme=transparent)](https://github.com/Syarmine/github-readme-stats)
+
         
 <!--
 **Syarmine/Syarmine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +18,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Syarmine's GitHub stats](https://github-readme-stats.vercel.app/api?username=Syarmine)](https://github.com/Syarmine/github-readme-stats)
