@@ -4,7 +4,14 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Syarmine&layout=compact)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Syarmine)](https://github.com/Syarmine/github-readme-stats)
+<a href="https://github.com/Syarmine/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Syarmine" />
+</a>
+<a href="https://github.com/Syarmine/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Syarmine&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+
 <!--
 **Syarmine/Syarmine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
