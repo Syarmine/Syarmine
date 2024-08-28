@@ -1,10 +1,11 @@
 ## Hi there 👋
 
-[![Syarmine's GitHub stats](https://github-readme-stats.vercel.app/api?username=Syarmine&show_icons=true&theme=gotham)](https://github.com/Syarmine/github-readme-stats)
+[![Syarmine's GitHub stats](https://github-readme-stats.vercel.app/api?username=Syarmine&show_icons=true&theme=react)](https://github.com/Syarmine/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Syarmine&show_icons=true&theme=gotham)](https://github.com/Syarmine/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Syarmine&show_icons=true&theme=react)](https://github.com/Syarmine/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Syarmine)](https://github.com/Syarmine/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Syarmine&layout=donut)](https://github.com/Syarine/github-readme-stats)
+
         
 <!--
 **Syarmine/Syarmine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
