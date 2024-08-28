@@ -30,4 +30,5 @@ I'm working full-time remotely as a analytics engineer. An agile individual with
 * Twitter: @SyarmineS
 
 
-<!-- Rest of your README content -->
+© 2024 — Syarmine
+
