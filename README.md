@@ -7,6 +7,8 @@
   <img height=200 align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=Syarmine&theme=react&layout=compact&langs_count=8&card_width=200" />
 </a>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Syarmine)](https://git.io/streak-stats)
+
 
 <!--
 **Syarmine/Syarmine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
